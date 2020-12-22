@@ -1,6 +1,5 @@
 # Sorting-Menu
-Implementation of Sorting Programs in C
-List:
+Implementation of Sorting Programs in C:
 1. BUBBLE SORT
 2. SELECTION SORT
 3. INSERTION SORT
